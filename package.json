@@ -1,0 +1,25 @@
+{
+  "name": "require-inject-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {
+    "require-inject": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha *Spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathasm/require-inject-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathasm/require-inject-test/issues"
+  },
+  "homepage": "https://github.com/nathasm/require-inject-test"
+}
